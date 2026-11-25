@@ -1,0 +1,12 @@
+# Kaggle credentials must never be committed
+kaggle.json
+access_token
+.kaggle/
+
+# trained models and weights
+*.keras
+*.h5
+
+# notebook and OS clutter
+.ipynb_checkpoints/
+.DS_Store
